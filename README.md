@@ -1,4 +1,6 @@
+https://github.com/Gaby-04/Amaya.git
 use el git clone  para clonar mi repsositorio
+
 touch  para crear el documento 
 git add para agregar el documento 
 git commit -m para garegarlo  al respositorio 
